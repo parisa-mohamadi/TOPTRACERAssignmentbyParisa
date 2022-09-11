@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TOPTRACER Assignment by Parisa</string>
+    <string name="tv_username">Username</string>
+    <string name="tv_password">Password</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="password_hint">Enter your password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+</resources>
